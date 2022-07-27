@@ -1,0 +1,380 @@
+1658804374841	geckodriver	INFO	Listening on 127.0.0.1:51166
+1658804374863	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51167" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofile9y4bhI"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658804375931	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51167
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofile9y4bhI/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1658804377586	Marionette	INFO	Listening on port 51182
+DevTools listening on ws://localhost:51167/devtools/browser/993cd5a7-05e4-489d-938a-8649de5e20a7
+Read port: 51182
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658804377633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658804684500	Marionette	INFO	Stopped listening on port 51182
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1658855902092	geckodriver	INFO	Listening on 127.0.0.1:49288
+1658855902608	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49289" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofileUI6Hx9"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658855903419	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49289
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofileUI6Hx9/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1658855905051	Marionette	INFO	Listening on port 49306
+DevTools listening on ws://localhost:49289/devtools/browser/cd3a79ec-3c09-4422-858b-f466b7c8fd80
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+Read port: 49306
+1658855905152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 2288 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658855916410	Marionette	INFO	Stopped listening on port 49306
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1658856019691	geckodriver	INFO	Listening on 127.0.0.1:49464
+1658856019701	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49465" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofileWAuPPp"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658856020111	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49465
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofileWAuPPp/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1658856021518	Marionette	INFO	Listening on port 49477
+DevTools listening on ws://localhost:49465/devtools/browser/8108f457-49dc-4ddd-a869-99310b066c44
+Read port: 49477
+1658856021551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 249 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658856035689	Marionette	INFO	Stopped listening on port 49477
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1658856104872	geckodriver	INFO	Listening on 127.0.0.1:49595
+1658856104882	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49596" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofilelVmM5q"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658856105268	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49596
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofilelVmM5q/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1658856106668	Marionette	INFO	Listening on port 49608
+DevTools listening on ws://localhost:49596/devtools/browser/b4d86ab0-5b26-4456-9534-0045b841a960
+Read port: 49608
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658856106742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 4944 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658856118777	Marionette	INFO	Stopped listening on port 49608
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1658856612910	geckodriver	INFO	Listening on 127.0.0.1:49748
+1658856612919	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49749" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofile3F3pVz"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658856613292	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49749
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofile3F3pVz/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1658856614866	Marionette	INFO	Listening on port 49761
+DevTools listening on ws://localhost:49749/devtools/browser/59067ff1-8793-4c0e-b43b-52658f66a63f
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+Read port: 49761
+1658856614978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658856616983	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-07-26T17:30:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T17:30:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T17:30:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T17:30:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T17:30:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T17:30:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T17:30:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T17:30:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 7717 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoplayParent.jsm, line 13: TypeError: browser is null
+JavaScript error: resource://gre/actors/AutoplayParent.jsm, line 13: TypeError: browser is null
+1658857143338	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1658860341288	Marionette	INFO	Stopped listening on port 49761
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1658940307145	geckodriver	INFO	Listening on 127.0.0.1:49913
+1658940307672	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49914" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofiletJLyd4"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658940308684	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49914
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofiletJLyd4/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1658940310633	Marionette	INFO	Listening on port 49934
+DevTools listening on ws://localhost:49914/devtools/browser/1bbe59ed-1dda-4968-a9c9-d9353dbf07e4
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+Read port: 49934
+1658940310729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658940314465	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-07-27T16:45:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-27T16:45:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-27T16:45:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-27T16:45:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:812:3
+
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+1658940541834	geckodriver	INFO	Listening on 127.0.0.1:50220
+1658940541843	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50221" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofileF7TL9m"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658940542334	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50221
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofileF7TL9m/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1658940543807	Marionette	INFO	Listening on port 50228
+DevTools listening on ws://localhost:50221/devtools/browser/12a89fd0-bcda-42a9-89e0-f8f0ea3a584d
+Read port: 50228
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658940543898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.orangehrm.com/, line 1793: TypeError: $ is not a function
+JavaScript error: https://www.orangehrm.com/, line 1987: SyntaxError: missing ] in computed property name
+JavaScript error: https://www.orangehrm.com/, line 2006: SyntaxError: unexpected token: ':'
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript error: https://www.orangehrm.com/, line 1793: TypeError: $ is not a function
+JavaScript error: https://www.orangehrm.com/, line 1987: SyntaxError: missing ] in computed property name
+JavaScript error: https://www.orangehrm.com/, line 2006: SyntaxError: unexpected token: ':'
+1658940561771	Marionette	INFO	Stopped listening on port 50228
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1658940565817	geckodriver	INFO	Listening on 127.0.0.1:50345
+1658940565825	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50346" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofileK2F1Hp"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658940566309	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50346
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofileK2F1Hp/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1658940567866	Marionette	INFO	Listening on port 50360
+DevTools listening on ws://localhost:50346/devtools/browser/7861dacf-dfe6-429a-bac7-88f8d2527fae
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+Read port: 50360
+1658940567979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript error: https://www.orangehrm.com/, line 1793: TypeError: $ is not a function
+JavaScript error: https://www.orangehrm.com/, line 1987: SyntaxError: missing ] in computed property name
+JavaScript error: https://www.orangehrm.com/, line 2006: SyntaxError: unexpected token: ':'
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript error: https://www.orangehrm.com/, line 1793: TypeError: $ is not a function
+JavaScript error: https://www.orangehrm.com/, line 1987: SyntaxError: missing ] in computed property name
+JavaScript error: https://www.orangehrm.com/, line 2006: SyntaxError: unexpected token: ':'
+1658940586613	Marionette	INFO	Stopped listening on port 50360
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript error: https://www.orangehrm.com/, line 1793: TypeError: $ is not a function
+JavaScript error: https://www.orangehrm.com/, line 1987: SyntaxError: missing ] in computed property name
+JavaScript error: https://www.orangehrm.com/, line 2006: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.orangehrm.com/features/hr-administration/, line 1152: SyntaxError: missing ] in computed property name
+JavaScript error: https://www.orangehrm.com/, line 1793: ReferenceError: $ is not defined
+JavaScript error: https://www.orangehrm.com/, line 1987: SyntaxError: missing ] in computed property name
+JavaScript error: https://www.orangehrm.com/, line 2006: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.orangehrm.com/features/employee-management/, line 1198: SyntaxError: missing ] in computed property name
+1658940676597	geckodriver	INFO	Listening on 127.0.0.1:50590
+1658940677107	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50591" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofilelY0FSZ"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658940677552	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50591
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofilelY0FSZ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1658940679158	Marionette	INFO	Listening on port 50606
+DevTools listening on ws://localhost:50591/devtools/browser/c0800f61-ef9b-4013-bf98-43ba9af180ee
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+Read port: 50606
+1658940679259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1658940692840	Marionette	INFO	Stopped listening on port 50606
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1658940702150	Marionette	INFO	Stopped listening on port 49934
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:153:26
+
+1658941053452	geckodriver	INFO	Listening on 127.0.0.1:50694
+1658941053461	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50695" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofileCXXaBN"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658941053864	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50695
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofileCXXaBN/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1658941055256	Marionette	INFO	Listening on port 50704
+DevTools listening on ws://localhost:50695/devtools/browser/69881d7e-ee5b-4633-982e-b37ef01f0d21
+Read port: 50704
+1658941055300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658941066036	Marionette	INFO	Stopped listening on port 50704
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1658941072780	geckodriver	INFO	Listening on 127.0.0.1:50743
+1658941072790	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50744" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofilenmK0rV"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658941073192	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50744
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofilenmK0rV/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1658941074563	Marionette	INFO	Listening on port 50757
+DevTools listening on ws://localhost:50744/devtools/browser/598d36df-edeb-4c98-be0c-9630160cb251
+Read port: 50757
+1658941074644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658941163415	Marionette	INFO	Stopped listening on port 50757
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1658941269459	geckodriver	INFO	Listening on 127.0.0.1:50849
+1658941269468	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50850" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofileob4SfK"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658941269902	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50850
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofileob4SfK/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1658941271296	Marionette	INFO	Listening on port 50863
+Read port: 50863
+DevTools listening on ws://localhost:50850/devtools/browser/4a957fa8-af3f-410c-8257-ea4406db99be
+1658941271319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 352))
+1658941357671	geckodriver	INFO	Listening on 127.0.0.1:50898
+1658941357678	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50899" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofilem7jemp"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658941358112	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50899
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofilem7jemp/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1658941359590	Marionette	INFO	Listening on port 50910
+DevTools listening on ws://localhost:50899/devtools/browser/cb44e79e-3b70-49d1-96f1-6e3e311b5eee
+Read port: 50910
+1658941359631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658941438098	geckodriver	INFO	Listening on 127.0.0.1:50953
+1658941438106	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50954" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofilenmk504"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658941438585	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50954
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofilenmk504/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1658941440074	Marionette	INFO	Listening on port 50966
+DevTools listening on ws://localhost:50954/devtools/browser/ea6d4406-6ed3-4e65-b25c-c8e7007bb7b6
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+Read port: 50966
+1658941440170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1658941542353	geckodriver	INFO	Listening on 127.0.0.1:51005
+1658941542361	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51006" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofilegPPtCU"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658941542878	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51006
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0h/jsrd_mmn5wv_by21d_z84djw0000gn/T/rust_mozprofilegPPtCU/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1658941544267	Marionette	INFO	Listening on port 51018
+DevTools listening on ws://localhost:51006/devtools/browser/8fba00fa-d9ce-4370-8e1b-3704e29503f7
+Read port: 51018
+1658941544311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658941577004	Marionette	INFO	Stopped listening on port 51018
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1658941579633	Marionette	INFO	Stopped listening on port 50966
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658941581817	Marionette	INFO	Stopped listening on port 50910
+1658941799962	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1658942537501	Marionette	INFO	Stopped listening on port 50863
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+

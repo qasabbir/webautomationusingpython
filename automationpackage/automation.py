@@ -9,4 +9,7 @@ print(driver.title)
 driver.find_element(By.ID,"txtUsername").send_keys("Admin")
 driver.find_element(By.ID,"txtPassword").send_keys("admin123")
 driver.find_element(By.NAME,"Submit").click()
-time.sleep(5)
+
+# code for users add
+driver.find_element(By.ID,"menu_admin_viewAdminModule").click()
+driver.find_element(By.ID,"menu_admin_viewSystemUsers").click()

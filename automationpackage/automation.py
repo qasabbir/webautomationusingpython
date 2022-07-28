@@ -24,7 +24,7 @@ selectelement.select_by_visible_text("Admin")
 #autocomplete search box handle
 
 driver.find_element(By.ID,"systemUser_employeeName_empName").send_keys("Orange Test")
-driver.find_element(By.ID,"systemUser_userName").send_keys("test1211")
+driver.find_element(By.ID,"systemUser_userName").send_keys("test12101")
 
 # this code for dropdown select by index
 
@@ -35,5 +35,6 @@ selectelementuser.select_by_index(0)
 driver.find_element(By.ID,"systemUser_password").send_keys("test1234@S!!")
 driver.find_element(By.ID,"systemUser_confirmPassword").send_keys("test1234@S!!")
 
-driver.find_element(By.ID, "btnSave").click()
-
+driver.find_element(By.CLASS_NAME, "addbutton").click()
+time.sleep(5)
+driver.close()
